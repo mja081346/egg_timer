@@ -1,8 +1,6 @@
 # EggTimer
 This is an Egg Timer made using Phoenix. It features 4 preset timers for cooking your egg (runny, soft boiled, hard boiled, overcooked) and a custom timer you can use for whatever you like.
 
-Check out https://egg-timer.onrender.com to see how it works!
-
 ## To run
 
 To start the Phoenix server:
